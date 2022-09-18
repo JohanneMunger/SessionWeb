@@ -1,0 +1,60 @@
+# Utils :
+    - VS code
+        - Prettier 
+        - Gitlens
+    - Git
+        - C'est quoi git ?
+        - Cree un repo pour notre session
+        - Voir les commandes Basic de Git 
+            - git remote
+            - git clone
+            - git add . 
+            - git commit -m ''
+            - git push
+            - git pull 
+<< ------------------------------------------------------------------------------>>
+
+# HTML CSS
+    1) Flex
+        - justify-content 
+        - align-items 
+    2) HTML & CSS
+         - Savoir separer avant de travailler ( flex et grid ) 
+    3) Jeu Froggy flexbox 
+             
+<< ------------------------------------------------------------------------------>>
+
+# JavaScript :
+    1) HTML + script ?
+    2) Methode d'integration de script 
+        - Head
+        - Before script or Defer
+        - File
+    3) Declaration de diffents type de variables 
+        - Variables
+        - Functions
+        - Arrow Functions
+    4) Les differents structures de donnee
+        - Array list
+        - Object
+        - JSON
+    5) Basic String Methods
+        - split
+        - join
+        - slice
+        - replace
+        - includes
+        - some
+        - every 
+    5) High Order Functions
+        - map
+        - filter
+        - reduce
+        - find
+        - findIndex
+    6) Exercices  
+        - Excercies 1 => .map()
+        - Exercices 2 => .map() .split() .join()
+        - Excercies 3 => .map() .includes()
+        - Excercies 4 => .map() .sort() .filter() .reduce()  
+

@@ -25,15 +25,15 @@
 << ------------------------------------------------------------------------------>>
 
 # JavaScript :
-    1) HTML + script ?
-    2) Methode d'integration de script 
-        - Head
-        - Before script or Defer
-        - File
+    1) HTML + script ?  ✅
+    2) Methode d'integration de script   ✅
+        - Head  ✅
+        - Before script or  Defer  ✅
+        - File  ✅
     3) Declaration de diffents type de variables 
-        - Variables
-        - Functions
-        - Arrow Functions
+        - Variables ✅
+        - Functions ✅
+        - Arrow Functions ✅
     4) Les differents structures de donnee
         - Array list
         - Object

@@ -1,20 +1,20 @@
 # Utils :
-    - VS code
-        - Prettier 
-        - Gitlens
-    - Git
-        - C'est quoi git ?
-        - Cree un repo pour notre session
-        - Voir les commandes Basic de Git 
-            - git remote
-            - git clone
-            - git add . 
-            - git commit -m ''
-            - git push
-            - git pull 
+    - VS code ✅
+        - Prettier  ✅
+        - Gitlens ✅
+    - Git ✅
+        - C'est quoi git ? ✅
+        - Cree un repo pour notre session ✅
+        - Voir les commandes Basic de Git  ✅
+            - git remote 
+            - git clone ✅
+            - git add .  ✅
+            - git commit -m '' ✅
+            - git push ✅
+            - git pull  ✅
 << ------------------------------------------------------------------------------>>
 
-# HTML CSS
+# HTML CSS ( JE VEUT DES QUESTIONS )
     1) Flex
         - justify-content 
         - align-items 

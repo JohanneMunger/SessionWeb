@@ -1,0 +1,18 @@
+1) Cree un compte github
+2) Cree un Repositorie
+3) Installer le Git sur ta machine local
+4) on a acceder au dossier Cour-sup 
+5)  ( CLONE ) git clone ################## ( la il va ajouter le dossier du repo de ton github ) 
+6) cd ./SessionWeb ( pour acceder au dossier du repo )
+7) Ajout de fichier 'test.txt' (DANS VS CODE)
+8)  ( STAGGING ) git add . ||  git add ./test.txt 
+9)  ( COMMIT ) git commit -m "Ajout du fichier test.txt" 
+10) ( PUSH ) git push 
+
+// De mon coté 
+1) Je suis connecte a mon github pour accepter l'invitation
+2) J'ai copier le PATH de ton repo (http/##################.git)
+3) Ouvert le Dossier Johanne avec le VS code et puis
+4) git clone ( pour le projet en soi )
+5) git pull ( pour avoir les changements qu'on a fait ( ou bien qui ete ajouté ) )
+ 
